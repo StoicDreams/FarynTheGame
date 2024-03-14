@@ -1,6 +1,6 @@
 # Faryn The Game
 
-[WebUI Version: 0.7.32](https://github.com/StoicDreams/RustWebUI)
+[WebUI Version: 0.8.0](https://github.com/StoicDreams/RustWebUI)
 
 Website for RPG game - Faryn.
 
