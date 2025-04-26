@@ -1,6 +1,6 @@
 # Faryn The Game
 
-[Version: 0.1.1](https://github.com/StoicDreams/FarynTheGame)
+[Version: 0.1.2](https://github.com/StoicDreams/FarynTheGame)
 
 [WebUI Version: 0.10.11](https://github.com/StoicDreams/WebUI)
 
