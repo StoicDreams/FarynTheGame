@@ -1,8 +1,8 @@
 # Faryn The Game
 
-[Version: 0.1.3](https://github.com/StoicDreams/FarynTheGame)
+[Version: 0.1.4](https://github.com/StoicDreams/FarynTheGame)
 
-[WebUI Version: 0.11.3](https://github.com/StoicDreams/WebUI)
+[WebUI](https://github.com/StoicDreams/WebUI)
 
 Website for RPG game - Faryn.
 
